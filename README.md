@@ -12,7 +12,11 @@ Install the latest versions of Mongo and Mongod on your PC and start the MongoDB
 
 Once your MongoDB is online , we can start the project by entering the command node index.js on your editor terminal.
 
-This will open up your browser tab with a completely working project for you.
+On successful execution you will get messages : <br />Listening on PORT 3000 <br />Connected to Database
+
+Then you can open up your browser tab and enter : http://localhost:3000/ in your search bar.
+
+This will open up your working project.
 
 # Starting MongoDB
 
