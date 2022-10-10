@@ -5,12 +5,19 @@ Download the code in ZIP format from the github link.
 
 Extract the context in your desired locations.
 
+Install the latest versions of Mongo and Mongod on your PC and start the MongoDB on a new hyperterminal.
+
 # Starting Project
 In your editor open the directory of the project and open the hyper terminal.
 
-Install the latest versions of Mongo and Mongod on your PC and start the MongoDB on a new hyperterminal.
+cd to the working directory of the folder in your terminal
 
-Once your MongoDB is online , we can start the project by entering the command node index.js on your editor terminal.
+Once your MongoDB is online , we can start the project by entering the following commands:-
+```
+npm install
+node index.js
+```
+on your editor terminal.
 
 On successful execution you will get messages : <br />Listening on PORT 3000 <br />Connected to Database
 
